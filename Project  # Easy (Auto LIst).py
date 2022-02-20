@@ -30,5 +30,7 @@ while(True):
         break
  
 
-
-'''ThankyouoRegards Utkarsh Trivedi'''
+'''
+Thank you 
+Regards Utkarsh Trivedi
+'''
